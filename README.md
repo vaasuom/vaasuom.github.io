@@ -1,4 +1,4 @@
 #vaasuom.github.io
-Chhayansh Purohit CV
+omprakash tripathi Assistant teacher
 ------------------------------------------------------------------------------------------------------
 ![cv](assets/img/cv.png)
